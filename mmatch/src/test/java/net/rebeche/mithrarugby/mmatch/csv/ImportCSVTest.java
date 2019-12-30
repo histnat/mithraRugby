@@ -29,10 +29,7 @@ public class ImportCSVTest {
 	@Autowired
 	DBMatchService dbMatch;
 
-	@Test
-	public void importAllTest() {
-		throw new RuntimeException("Test not implemented");
-	}
+	
 
 	@Test
 	public void importMatchTest() {
